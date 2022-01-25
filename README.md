@@ -1,10 +1,10 @@
 # Frontend Challenge
 
-- [ ] Create a List and Detail view for article from [NewsAPI](https://newsapi.org/)
-- [ ] it should use React
+- [x] Create a List and Detail view for article from [NewsAPI](https://newsapi.org/)
+- [x] it should use React
 - [ ] it should use TypeScript
-- [ ] it should use [reactstrap](https://reactstrap.github.io/) for styling (you can customize the UI if you are interesting with UI/UX)
-- [ ] it should be open sourced on your github repo
+- [x] it should use [reactstrap](https://reactstrap.github.io/) for styling (you can customize the UI if you are interesting with UI/UX)
+- [x] it should be open sourced on your github repo
 
 # Extras
 - [ ] Test your components with [jest](https://jest-everywhere.now.sh)
