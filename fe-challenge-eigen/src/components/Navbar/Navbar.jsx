@@ -32,13 +32,13 @@ const Navbar = () => {
         id="collasible-nav-dropdown"
         className="navbar a"
       >
-        <NavDropdown.Item href="#action/3.1" onClick={() => country("id")}>
+        <NavDropdown.Item href="#" onClick={() => country("id")}>
           Indonesia
         </NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.2" onClick={() => country("us")}>
+        <NavDropdown.Item href="#" onClick={() => country("us")}>
           USA
         </NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.3" onClick={() => country("ru")}>
+        <NavDropdown.Item href="#" onClick={() => country("ru")}>
           Russia
         </NavDropdown.Item>
         {/* <NavDropdown.Divider />
